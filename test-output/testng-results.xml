@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-14T18:33:34Z" name="Default suite" finished-at="2019-08-14T18:33:53Z" duration-ms="19680">
+    <groups>
+    </groups>
+    <test started-at="2019-08-14T18:33:34Z" name="Default test" finished-at="2019-08-14T18:33:53Z" duration-ms="19680">
+      <class name="com.qa.testcases.IPhonePricePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.IPhonePricePageTest@5db45159]" started-at="2019-08-14T18:33:34Z" name="setUp" finished-at="2019-08-14T18:33:48Z" duration-ms="14495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testIphonePrice()[pri:1, instance:com.qa.testcases.IPhonePricePageTest@5db45159]" started-at="2019-08-14T18:33:48Z" name="testIphonePrice" finished-at="2019-08-14T18:33:52Z" duration-ms="4346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIphonePrice -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.testcases.IPhonePricePageTest@5db45159]" started-at="2019-08-14T18:33:52Z" name="afterMethod" finished-at="2019-08-14T18:33:53Z" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.qa.testcases.IPhonePricePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
